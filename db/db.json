@@ -1,6 +1,144 @@
 {
   "announcements": [
     {
+      "id": 724,
+      "platform": "shopee",
+      "title": "Significant Open Platform Updates",
+      "url": "https://open.shopee.com/announcements/724"
+    },
+    {
+      "id": 725,
+      "platform": "shopee",
+      "title": "[Important] System Upgrade Drill in Live Environment",
+      "url": "https://open.shopee.com/announcements/725"
+    },
+    {
+      "id": 723,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/723"
+    },
+    {
+      "id": 719,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/719"
+    },
+    {
+      "id": 717,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform Shopee Logistics API (Flash Express)",
+      "url": "https://open.shopee.com/announcements/717"
+    },
+    {
+      "id": 715,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/715"
+    },
+    {
+      "id": 714,
+      "platform": "shopee",
+      "title": "[For your action] Sunset \"recipient_addr\" field in Customized Airway Bill API",
+      "url": "https://open.shopee.com/announcements/714"
+    },
+    {
+      "id": 710,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Logistic Channel Name",
+      "url": "https://open.shopee.com/announcements/710"
+    },
+    {
+      "id": 699,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/699"
+    },
+    {
+      "id": 696,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier Airway Bill ",
+      "url": "https://open.shopee.com/announcements/696"
+    },
+    {
+      "id": 684,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/684"
+    },
+    {
+      "id": 683,
+      "platform": "shopee",
+      "title": "Open Platform support Member Management and Developer Account Deletion",
+      "url": "https://open.shopee.com/announcements/683"
+    },
+    {
+      "id": 682,
+      "platform": "shopee",
+      "title": "[important] Implement PENDING as a new order status in Open API",
+      "url": "https://open.shopee.com/announcements/682"
+    },
+    {
+      "id": 676,
+      "platform": "shopee",
+      "title": " Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/676"
+    },
+    {
+      "id": 675,
+      "platform": "shopee",
+      "title": " [Important] Tightening of Access to Buyer's Information on Open API",
+      "url": "https://open.shopee.com/announcements/675"
+    },
+    {
+      "id": 674,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/674"
+    },
+    {
+      "id": 668,
+      "platform": "shopee",
+      "title": "[Important] Tightening of Access to Buyer's Information on Open API",
+      "url": "https://open.shopee.com/announcements/668"
+    },
+    {
+      "id": 664,
+      "platform": "shopee",
+      "title": "[Updated] [Action required]Important update for PH customized Air Waybills (AWB）",
+      "url": "https://open.shopee.com/announcements/664"
+    },
+    {
+      "id": 662,
+      "platform": "shopee",
+      "title": "[Important] 3PF Seller CBSC Migration & Upgrade for Product and Stock Management",
+      "url": "https://open.shopee.com/announcements/662"
+    },
+    {
+      "id": 660,
+      "platform": "shopee",
+      "title": " [CB] Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/660"
+    },
+    {
+      "id": 650,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/650"
+    },
+    {
+      "id": 646,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/646"
+    },
+    {
+      "id": 639,
+      "platform": "shopee",
+      "title": "[MY] Update for the shipping carrier name of Bulky & Heavy Delivery & J&T Cargo",
+      "url": "https://open.shopee.com/announcements/639"
+    },
+    {
       "id": 637,
       "platform": "shopee",
       "title": "4 Brand New Chat APIs and an Improved v2.get.message API",
