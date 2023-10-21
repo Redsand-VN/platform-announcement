@@ -14,7 +14,7 @@ export const scrape = async () => {
         id: d.document_id,
         platform: "tiktok",
         title: d.name,
-        url: `https://developers.tiktok-shops.com/documents/document/${d.document_id}`,
+        url: `https://partner.tiktokshop.com/docv2/page/${d.document_id}`,
       }));
     return announcements;
   } catch (error) {
