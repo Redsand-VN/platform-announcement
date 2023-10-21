@@ -1,8 +1,13 @@
 import https from "https";
+import http from "http";
 
 export default (url) => {
+  var fetcher = http;
+  if(url.startsWith("https://")){
+    fetcher = https;
+  }
   return new Promise((resolve, reject) => {
-    https
+    fetcher
       .get(url, (resp) => {
         let data = "";
 
@@ -22,7 +27,10 @@ export default (url) => {
 
 export const post = (url, headers, body) => {
   const data = JSON.stringify(body);
-
+  var fetcher = http;
+  if(url.startsWith("https://")){
+    fetcher = https;
+  }
   const options = {
     method: "POST",
     headers: {
@@ -33,7 +41,7 @@ export const post = (url, headers, body) => {
   };
 
   return new Promise((resolve, reject) => {
-    const req = https
+    const req = fetcher
       .request(url, options, (resp) => {
         let data = "";
 

@@ -5,6 +5,7 @@ import { fileURLToPath } from "url";
 import * as lazada from "./platforms/lazada.js";
 import * as shopee from "./platforms/shopee.js";
 import * as tiktok from "./platforms/tiktok.js";
+import {WebhookConsumer} from "./consumers/webhook_consumer.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -13,7 +14,7 @@ const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
 const db = new Low(adapter);
 
-// const consumer = new WebhookConsumer(process.env.WEBHOOK_URL);
+const consumer = new WebhookConsumer(process.env.WEBHOOK_URL);
 
 const insertAnnouncement = (announcement) => {
   const _announcement = db.data.announcements.find(
@@ -45,8 +46,7 @@ const main = async () => {
         const { isNew } = insertAnnouncement(announcement);
         if (isNew) {
           db.write();
-          return delay(1000);
-          // return consumer.send(announcement).then(() => delay(1000));
+          return consumer.send(announcement).then(() => delay(1000));
         }
 
         return Promise.resolve();
