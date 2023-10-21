@@ -1,6 +1,72 @@
 {
   "announcements": [
     {
+      "id": "6509b2aec16ffe02b8d7623c",
+      "platform": "tiktok",
+      "title": "Introducing API version 202309",
+      "url": "https://developers.tiktok-shops.com/documents/document/6509b2aec16ffe02b8d7623c"
+    },
+    {
+      "id": 1931,
+      "platform": "lazada",
+      "title": "Product API - Seller Sku Remove Uniqueness Restrictions",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1931"
+    },
+    {
+      "id": 1929,
+      "platform": "lazada",
+      "title": "General tips for system mapping to avoid penalties and ensure timely fulfillment",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1929"
+    },
+    {
+      "id": 1928,
+      "platform": "lazada",
+      "title": "Product API - Description deletion feature released",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1928"
+    },
+    {
+      "id": 1899,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1899"
+    },
+    {
+      "id": 1896,
+      "platform": "lazada",
+      "title": "ISVs Can Release Cross-border Services Now!",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1896"
+    },
+    {
+      "id": 1892,
+      "platform": "lazada",
+      "title": "Sponsored Solution API Adjustment on min budget limitation",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1892"
+    },
+    {
+      "id": 1877,
+      "platform": "lazada",
+      "title": "Product API - Thumbnail Image Removal",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1877"
+    },
+    {
+      "id": 1857,
+      "platform": "lazada",
+      "title": "Product API - Inventory update error message update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1857"
+    },
+    {
+      "id": 1852,
+      "platform": "lazada",
+      "title": "Product API - Content Score feature coming soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1852"
+    },
+    {
+      "id": 1655,
+      "platform": "lazada",
+      "title": "Order API - GetOrderItems Update: Priority Delivery Seller Visibility",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1655"
+    },
+    {
       "id": 733,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
