@@ -22,6 +22,7 @@ export default (url) => {
       .on("error", (err) => {
         reject(error);
       });
+      
   });
 };
 
