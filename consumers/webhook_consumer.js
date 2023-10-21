@@ -11,7 +11,7 @@ export class WebhookConsumer {
       "id": process.env.CHANEL_ID,
       "templateId": process.env.TEMPLATE_ID,
       params: {
-        title: announcement.platform +" Update Api",
+        title: announcement.platform.toUpperCase() +" Update Api",
         content: announcement.title,
         link: announcement.url,
       },
