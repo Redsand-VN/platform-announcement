@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "653779d99971b602ba81187d",
+      "platform": "tiktok",
+      "title": "Shortened string length for buyer_email in Get Order Detail API",
+      "url": "https://partner.tiktokshop.com/docv2/page/653779d99971b602ba81187d"
+    },
+    {
+      "id": 1950,
+      "platform": "lazada",
+      "title": "LAZADA D11 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1950"
+    },
+    {
       "id": "6509b2aec16ffe02b8d7623c",
       "platform": "tiktok",
       "title": "Introducing API version 202309",
