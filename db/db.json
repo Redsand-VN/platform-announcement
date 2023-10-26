@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1951,
+      "platform": "lazada",
+      "title": "Product API - Size Chart feature will be updated soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1951"
+    },
+    {
       "id": "653779d99971b602ba81187d",
       "platform": "tiktok",
       "title": "Shortened string length for buyer_email in Get Order Detail API",
