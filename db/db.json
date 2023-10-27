@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6539de15a3d5b702be6167e4",
+      "platform": "tiktok",
+      "title": "Black Friday Cyber Monday Campaign Developer Update",
+      "url": "https://partner.tiktokshop.com/docv2/page/6539de15a3d5b702be6167e4"
+    },
+    {
+      "id": 738,
+      "platform": "shopee",
+      "title": "[Important] Significant Open API Updates For CNSC and KRSC sellers",
+      "url": "https://open.shopee.com/announcements/738"
+    },
+    {
       "id": 1951,
       "platform": "lazada",
       "title": "Product API - Size Chart feature will be updated soon",
