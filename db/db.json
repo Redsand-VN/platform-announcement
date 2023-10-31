@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 740,
+      "platform": "shopee",
+      "title": "[Important] New BR Domain Name Launched For Faster API Services ",
+      "url": "https://open.shopee.com/announcements/740"
+    },
+    {
+      "id": 739,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/739"
+    },
+    {
       "id": "6539de15a3d5b702be6167e4",
       "platform": "tiktok",
       "title": "Black Friday Cyber Monday Campaign Developer Update",
