@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6543158d6f932c02ba1b78a8",
+      "platform": "tiktok",
+      "title": "For local sellers in the US market: Warning information added to Mark Package As Shipped API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6543158d6f932c02ba1b78a8"
+    },
+    {
       "id": 740,
       "platform": "shopee",
       "title": "[Important] New BR Domain Name Launched For Faster API Services ",
