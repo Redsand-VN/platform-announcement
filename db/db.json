@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 760,
+      "platform": "shopee",
+      "title": "[Important Update] IP Address Whitelist Function ",
+      "url": "https://open.shopee.com/announcements/760"
+    },
+    {
       "id": "6543158d6f932c02ba1b78a8",
       "platform": "tiktok",
       "title": "For local sellers in the US market: Warning information added to Mark Package As Shipped API",
