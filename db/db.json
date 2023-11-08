@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1963,
+      "platform": "lazada",
+      "title": "ISV Product API Regulation Notice",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1963"
+    },
+    {
       "id": 760,
       "platform": "shopee",
       "title": "[Important Update] IP Address Whitelist Function ",
