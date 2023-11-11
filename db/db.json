@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "654dc3fca1dde702c05579f8",
+      "platform": "tiktok",
+      "title": "New shipping label format launched in the ID, MY and VN markets",
+      "url": "https://partner.tiktokshop.com/docv2/page/654dc3fca1dde702c05579f8"
+    },
+    {
       "id": "654b225e080aee02c31ac1f8",
       "platform": "tiktok",
       "title": "New property added to Recommend Category API to indicate whether sellers can use the recommended category",
