@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 771,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/771"
+    },
+    {
       "id": "654dc3fca1dde702c05579f8",
       "platform": "tiktok",
       "title": "New shipping label format launched in the ID, MY and VN markets",
