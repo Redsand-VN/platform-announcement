@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "65532219ff8ea502bd3df6a2",
+      "platform": "tiktok",
+      "title": "For local and cross-border sellers in the US market: Shipping information update time window extended to 72 hours",
+      "url": "https://partner.tiktokshop.com/docv2/page/65532219ff8ea502bd3df6a2"
+    },
+    {
       "id": 771,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
