@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "655d791328310802de8aa39d",
+      "platform": "tiktok",
+      "title": "TikTok Shop Open API Release Update - November 2023",
+      "url": "https://partner.tiktokshop.com/docv2/page/655d791328310802de8aa39d"
+    },
+    {
       "id": "655c6230f4488c02df97fb13",
       "platform": "tiktok",
       "title": "For local sellers in the UK market: introducing item level order split shipping",
