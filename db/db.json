@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6566dd463022b702d8841afb",
+      "platform": "tiktok",
+      "title": "Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)",
+      "url": "https://partner.tiktokshop.com/docv2/page/6566dd463022b702d8841afb"
+    },
+    {
       "id": 790,
       "platform": "shopee",
       "title": "[중요] 3PF PFF Shop 모드 지원 및 3PF 상점 업그레이드에 대한 안내",
