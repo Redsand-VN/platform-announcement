@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "656d70d9cca08202dbc037f8",
+      "platform": "tiktok",
+      "title": "New property added to Get Category Rules API to indicate whether the package dimension is mandatory",
+      "url": "https://partner.tiktokshop.com/docv2/page/656d70d9cca08202dbc037f8"
+    },
+    {
+      "id": 799,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/799"
+    },
+    {
       "id": "6566dd463022b702d8841afb",
       "platform": "tiktok",
       "title": "Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)",
