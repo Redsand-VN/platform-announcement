@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 800,
+      "platform": "shopee",
+      "title": "[Resend announcement] [SG] New Next Day Doorstep Delivery Logistic Channel",
+      "url": "https://open.shopee.com/announcements/800"
+    },
+    {
+      "id": 1987,
+      "platform": "lazada",
+      "title": "Product API - GetCategoryAttributes add unit field",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1987"
+    },
+    {
       "id": "656d70d9cca08202dbc037f8",
       "platform": "tiktok",
       "title": "New property added to Get Category Rules API to indicate whether the package dimension is mandatory",
