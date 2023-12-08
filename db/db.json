@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "656d9d5fe87cdf02c1625d01",
+      "platform": "tiktok",
+      "title": "For US and UK markets: Introducing \"On Hold\" order status",
+      "url": "https://partner.tiktokshop.com/docv2/page/656d9d5fe87cdf02c1625d01"
+    },
+    {
+      "id": 1989,
+      "platform": "lazada",
+      "title": "【Important】Authorization Upgrade on Lazada Open Platform",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1989"
+    },
+    {
+      "id": 1988,
+      "platform": "lazada",
+      "title": "ISVs Can Release Cross-border Services Now!",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1988"
+    },
+    {
       "id": 800,
       "platform": "shopee",
       "title": "[Resend announcement] [SG] New Next Day Doorstep Delivery Logistic Channel",
