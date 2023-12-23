@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "65852b58bb426602df90ebba",
+      "platform": "tiktok",
+      "title": "Removal of \"unable to deliver to buyer address\" as a cancellation reason in ID, VN, , SG, PH Markets",
+      "url": "https://partner.tiktokshop.com/docv2/page/65852b58bb426602df90ebba"
+    },
+    {
+      "id": 815,
+      "platform": "shopee",
+      "title": "[Final Reminder] IP Address Whitelist Function",
+      "url": "https://open.shopee.com/announcements/815"
+    },
+    {
+      "id": 1998,
+      "platform": "lazada",
+      "title": "Order API - \"voucher_seller/platform_lpi\" Field Updates",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1998"
+    },
+    {
       "id": "656d9d5fe87cdf02c1625d01",
       "platform": "tiktok",
       "title": "For US and UK markets: Introducing \"On Hold\" order status",
