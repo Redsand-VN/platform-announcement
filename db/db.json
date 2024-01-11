@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "659e0fff81b5ab02dfc154b7",
+      "platform": "tiktok",
+      "title": "New function: Pre-publish checklist",
+      "url": "https://partner.tiktokshop.com/docv2/page/659e0fff81b5ab02dfc154b7"
+    },
+    {
       "id": 831,
       "platform": "shopee",
       "title": "[CB] Significant OpenAPI Updates",
