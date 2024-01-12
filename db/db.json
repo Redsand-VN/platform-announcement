@@ -1,6 +1,30 @@
 {
   "announcements": [
     {
+      "id": "65a0693b9e905f02dfa80acf",
+      "platform": "tiktok",
+      "title": "SLA information now available in Order API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a0693b9e905f02dfa80acf"
+    },
+    {
+      "id": "65a029e6a7406102df5e951e",
+      "platform": "tiktok",
+      "title": "Changes to Check Listing Prerequiste API in v202312",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a029e6a7406102df5e951e"
+    },
+    {
+      "id": "65a0406cb8a10102da32c57d",
+      "platform": "tiktok",
+      "title": "Changes to Create Product and Edit Product APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a0406cb8a10102da32c57d"
+    },
+    {
+      "id": "65a052028350e302e20d21f1",
+      "platform": "tiktok",
+      "title": "Draft status available for Create Product API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a052028350e302e20d21f1"
+    },
+    {
       "id": "659e0fff81b5ab02dfc154b7",
       "platform": "tiktok",
       "title": "New function: Pre-publish checklist",
