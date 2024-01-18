@@ -1,6 +1,42 @@
 {
   "announcements": [
     {
+      "id": "65a851046032c702e0bdbee6",
+      "platform": "tiktok",
+      "title": "For US local sellers: Retail Delivery Fee is added to API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a851046032c702e0bdbee6"
+    },
+    {
+      "id": "65a854399e905f02dfed7ab9",
+      "platform": "tiktok",
+      "title": "Return amount detail information available in Search Return API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a854399e905f02dfed7ab9"
+    },
+    {
+      "id": "65a835db4420b502df0a9db3",
+      "platform": "tiktok",
+      "title": "Delivery instructions now available in Order API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a835db4420b502df0a9db3"
+    },
+    {
+      "id": "65a848b169663802db44999c",
+      "platform": "tiktok",
+      "title": "For US local sellers: item level tax rate added to Order resource",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a848b169663802db44999c"
+    },
+    {
+      "id": "65a848f4ea874002e1f672d1",
+      "platform": "tiktok",
+      "title": "US Only: Order Cancellation Workflow Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a848f4ea874002e1f672d1"
+    },
+    {
+      "id": 837,
+      "platform": "shopee",
+      "title": "Significant Open Platform",
+      "url": "https://open.shopee.com/announcements/837"
+    },
+    {
       "id": 838,
       "platform": "shopee",
       "title": "Significant Open Platform and OpenAPI Updates",
