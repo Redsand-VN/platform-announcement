@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "65a8c3944f1c9102d961b181",
+      "platform": "tiktok",
+      "title": "For SEA market: Update on tracking number availability in Orders API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a8c3944f1c9102d961b181"
+    },
+    {
       "id": "65a851046032c702e0bdbee6",
       "platform": "tiktok",
       "title": "For US local sellers: Retail Delivery Fee is added to API",
