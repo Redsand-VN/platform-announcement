@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2009,
+      "platform": "lazada",
+      "title": "Seller Sku Uniqueness Restriction Removed",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2009"
+    },
+    {
       "id": 843,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
