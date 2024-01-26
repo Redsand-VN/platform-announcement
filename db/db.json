@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 2019,
+      "platform": "lazada",
+      "title": "Choice JIT OpenApi 上线通告",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2019"
+    },
+    {
+      "id": 2017,
+      "platform": "lazada",
+      "title": "Product API Update - UpdateSellableQuantity and AdjustSellableQuantity",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2017"
+    },
+    {
       "id": 2009,
       "platform": "lazada",
       "title": "Seller Sku Uniqueness Restriction Removed",
