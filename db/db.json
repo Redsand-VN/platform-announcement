@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 850,
+      "platform": "shopee",
+      "title": "Open API Updates: New Image Ratios and Promotional Image Fields",
+      "url": "https://open.shopee.com/announcements/850"
+    },
+    {
       "id": 2019,
       "platform": "lazada",
       "title": "Choice JIT OpenApi 上线通告",
