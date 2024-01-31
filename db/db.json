@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "65b8ca9afa59d87f8384eb4d",
+      "platform": "tiktok",
+      "title": "For SEA markets: Introducing Development Shops",
+      "url": "https://partner.tiktokshop.com/docv2/page/65b8ca9afa59d87f8384eb4d"
+    },
+    {
+      "id": 2020,
+      "platform": "lazada",
+      "title": "Sponsored Solution API autoCreative、autoKeyword Setting Adjustment",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2020"
+    },
+    {
       "id": 850,
       "platform": "shopee",
       "title": "Open API Updates: New Image Ratios and Promotional Image Fields",
