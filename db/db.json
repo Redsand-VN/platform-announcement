@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 853,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Logistic Channel Renaming & Introduction to New Logist",
+      "url": "https://open.shopee.com/announcements/853"
+    },
+    {
       "id": "65b8ca9afa59d87f8384eb4d",
       "platform": "tiktok",
       "title": "For SEA markets: Introducing Development Shops",
