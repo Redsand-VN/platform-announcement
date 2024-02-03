@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "65bc5cf0e1a05b02db89d1a1",
+      "platform": "tiktok",
+      "title": "New Endpoint: Listing Schema",
+      "url": "https://partner.tiktokshop.com/docv2/page/65bc5cf0e1a05b02db89d1a1"
+    },
+    {
+      "id": 856,
+      "platform": "shopee",
+      "title": "[CBSC] Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/856"
+    },
+    {
       "id": 2024,
       "platform": "lazada",
       "title": "Lazada Marketplace Ease Mode Open API release",
