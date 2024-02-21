@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "65d3fea12184f602e3da78b1",
+      "platform": "tiktok",
+      "title": "UK Market Only: Size Chart is now mandatory for Product Listings",
+      "url": "https://partner.tiktokshop.com/docv2/page/65d3fea12184f602e3da78b1"
+    },
+    {
       "id": "65bc5cf0e1a05b02db89d1a1",
       "platform": "tiktok",
       "title": "New Endpoint: Listing Schema",
