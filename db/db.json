@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2033,
+      "platform": "lazada",
+      "title": "订单API - 新增【semi_managed】标签识别Global Plus类型订单",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2033"
+    },
+    {
       "id": 860,
       "platform": "shopee",
       "title": " [Important] [TW]Tightening of Access to Buyer's Information on Open API",
