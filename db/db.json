@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2050,
+      "platform": "lazada",
+      "title": "LAZADA Bday Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2050"
+    },
+    {
       "id": 865,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
