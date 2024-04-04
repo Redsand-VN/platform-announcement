@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "660d8bab589cba02c0ee3c28",
+      "platform": "tiktok",
+      "title": "For US Market: Add address_level field to Orders API",
+      "url": "https://partner.tiktokshop.com/docv2/page/660d8bab589cba02c0ee3c28"
+    },
+    {
+      "id": "660d8ff9a2d6d902c70a043f",
+      "platform": "tiktok",
+      "title": "For UK Market: Support Item Level Cancellation",
+      "url": "https://partner.tiktokshop.com/docv2/page/660d8ff9a2d6d902c70a043f"
+    },
+    {
       "id": 876,
       "platform": "shopee",
       "title": "[Important][PH] Adjustment of Pickup Time Slot Selection",
