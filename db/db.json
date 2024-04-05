@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "660e1827941bca02c0aaab6c",
+      "platform": "tiktok",
+      "title": "Virtual Bundles are now available in Order Details",
+      "url": "https://partner.tiktokshop.com/docv2/page/660e1827941bca02c0aaab6c"
+    },
+    {
       "id": "660d8bab589cba02c0ee3c28",
       "platform": "tiktok",
       "title": "For US Market: Add address_level field to Orders API",
