@@ -1,6 +1,72 @@
 {
   "announcements": [
     {
+      "id": 883,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/883"
+    },
+    {
+      "id": 81,
+      "platform": "lazada",
+      "title": "Masking the return of GetDocument API (April 9, 2019)",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=81"
+    },
+    {
+      "id": 78,
+      "platform": "lazada",
+      "title": "Release of new API to get Seller Metrics (April 29, 2019)",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=78"
+    },
+    {
+      "id": 77,
+      "platform": "lazada",
+      "title": "Upgrade of GetProducts API (June 6 2019)",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=77"
+    },
+    {
+      "id": 76,
+      "platform": "lazada",
+      "title": "New API GetSeller is online (April 18, 2018)",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=76"
+    },
+    {
+      "id": 75,
+      "platform": "lazada",
+      "title": "Decomissioning of Old Category Attributes on 21st June 2019",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=75"
+    },
+    {
+      "id": 71,
+      "platform": "lazada",
+      "title": "Update of \"Key Production Information Attribute\" in  \"GetCategoryAttributes API\" (03-Mar-2020)",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=71"
+    },
+    {
+      "id": 70,
+      "platform": "lazada",
+      "title": "Release of new API: FBL API",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=70"
+    },
+    {
+      "id": 68,
+      "platform": "lazada",
+      "title": "2020.10.27 Product API Update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=68"
+    },
+    {
+      "id": 64,
+      "platform": "lazada",
+      "title": "Lazada Birthday Festival",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=64"
+    },
+    {
+      "id": 63,
+      "platform": "lazada",
+      "title": "Orders API update notice（from 04/26）",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=63"
+    },
+    {
       "id": "660e1827941bca02c0aaab6c",
       "platform": "tiktok",
       "title": "Virtual Bundles are now available in Order Details",
