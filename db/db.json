@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "661d36d77dcc9602c67ecd0a",
+      "platform": "tiktok",
+      "title": "Development Shops supports creating accounts for cross-border shops",
+      "url": "https://partner.tiktokshop.com/docv2/page/661d36d77dcc9602c67ecd0a"
+    },
+    {
+      "id": 884,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform Customized AWB API",
+      "url": "https://open.shopee.com/announcements/884"
+    },
+    {
       "id": 883,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
