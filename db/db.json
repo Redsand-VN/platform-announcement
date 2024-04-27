@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 891,
+      "platform": "shopee",
+      "title": "[Important][PH] SPX-FEX 4PL Multi-Leg Channel Integration",
+      "url": "https://open.shopee.com/announcements/891"
+    },
+    {
       "id": "6626f71ad3869d02da297554",
       "platform": "tiktok",
       "title": "ARD Updates",
