@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2088,
+      "platform": "lazada",
+      "title": "TLS 1.0 Offline Notification",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2088"
+    },
+    {
       "id": "66329335cb261f02e0b66da9",
       "platform": "tiktok",
       "title": "For the UK market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
