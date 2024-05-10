@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "661f02b62e1a5d02e267d159",
+      "platform": "tiktok",
+      "title": "Authorization Page Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/661f02b62e1a5d02e267d159"
+    },
+    {
       "id": 2088,
       "platform": "lazada",
       "title": "TLS 1.0 Offline Notification",
