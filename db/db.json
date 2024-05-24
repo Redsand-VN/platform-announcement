@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2104,
+      "platform": "lazada",
+      "title": "LAZADA D6 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2104"
+    },
+    {
       "id": 2100,
       "platform": "lazada",
       "title": "Seller Notification Centre API is online",
