@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6658fcae39313f02dd4e1b47",
+      "platform": "tiktok",
+      "title": "US Market: Product Category Expansion",
+      "url": "https://partner.tiktokshop.com/docv2/page/6658fcae39313f02dd4e1b47"
+    },
+    {
+      "id": "6658fdefa4dd6c02c335c538",
+      "platform": "tiktok",
+      "title": "US and UK Markets: Product Information Quality APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6658fdefa4dd6c02c335c538"
+    },
+    {
       "id": 907,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)",
