@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 908,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/908"
+    },
+    {
       "id": "6658fcae39313f02dd4e1b47",
       "platform": "tiktok",
       "title": "US Market: Product Category Expansion",
