@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "666bb8aa9962ee02c1826afe",
+      "platform": "tiktok",
+      "title": "For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/666bb8aa9962ee02c1826afe"
+    },
+    {
+      "id": 917,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform Shopee Logistics API (Same Day Delivery)",
+      "url": "https://open.shopee.com/announcements/917"
+    },
+    {
+      "id": 2113,
+      "platform": "lazada",
+      "title": "TLS 1.0 is offline",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2113"
+    },
+    {
       "id": 908,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
