@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 918,
+      "platform": "shopee",
+      "title": "[Important] Upcoming System Upgrade in Live Environment",
+      "url": "https://open.shopee.com/announcements/918"
+    },
+    {
       "id": "666bb8aa9962ee02c1826afe",
       "platform": "tiktok",
       "title": "For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
