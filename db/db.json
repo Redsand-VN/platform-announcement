@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2114,
+      "platform": "lazada",
+      "title": "Old order cancellation API is going offline soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2114"
+    },
+    {
       "id": 918,
       "platform": "shopee",
       "title": "[Important] Upcoming System Upgrade in Live Environment",
