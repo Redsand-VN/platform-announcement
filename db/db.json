@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 921,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/921"
+    },
+    {
       "id": 2114,
       "platform": "lazada",
       "title": "Old order cancellation API is going offline soon",
