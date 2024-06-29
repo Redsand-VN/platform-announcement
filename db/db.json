@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 925,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/925"
+    },
+    {
+      "id": 924,
+      "platform": "shopee",
+      "title": "Significant Open Platform Updates",
+      "url": "https://open.shopee.com/announcements/924"
+    },
+    {
       "id": 2117,
       "platform": "lazada",
       "title": "Notification - Mandatory Category Attributes",
