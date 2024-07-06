@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 2127,
+      "platform": "lazada",
+      "title": "GSP API-CreateGlobalProduct ,Input parameter update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2127"
+    },
+    {
       "id": 928,
       "platform": "shopee",
       "title": "[SG] Sunday Pick-up Application Form (SPX Pick-up only)",
