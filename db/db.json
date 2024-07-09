@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "668c6009737c3702ef0269df",
+      "platform": "tiktok",
+      "title": "New fields added to Product API for ShopAds",
+      "url": "https://partner.tiktokshop.com/docv2/page/668c6009737c3702ef0269df"
+    },
+    {
       "id": 2127,
       "platform": "lazada",
       "title": "GSP API-CreateGlobalProduct ,Input parameter update",
