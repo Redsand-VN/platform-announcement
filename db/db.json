@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6695695742784f0300c36d38",
+      "platform": "tiktok",
+      "title": "For the TH market: Updates to Mandatory Certifications for Certain Product Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/6695695742784f0300c36d38"
+    },
+    {
+      "id": "66957b8688c8b702f75ff09c",
+      "platform": "tiktok",
+      "title": "New Promotion APIs: Gift With Purchase and Free Sample",
+      "url": "https://partner.tiktokshop.com/docv2/page/66957b8688c8b702f75ff09c"
+    },
+    {
+      "id": "66957bc499c26c02ff6c57a9",
+      "platform": "tiktok",
+      "title": "US Market: Mandatory hazmat attributes added",
+      "url": "https://partner.tiktokshop.com/docv2/page/66957bc499c26c02ff6c57a9"
+    },
+    {
       "id": "668c6009737c3702ef0269df",
       "platform": "tiktok",
       "title": "New fields added to Product API for ShopAds",
