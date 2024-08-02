@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "66978e5099c26c02ff76472b",
+      "platform": "tiktok",
+      "title": "New APIs and Webhook for Affiliates (Beta)",
+      "url": "https://partner.tiktokshop.com/docv2/page/66978e5099c26c02ff76472b"
+    },
+    {
+      "id": "66ab20d2d452bf02e7ef8f3b",
+      "platform": "tiktok",
+      "title": "Adding SKU and Product limit to Promotion API",
+      "url": "https://partner.tiktokshop.com/docv2/page/66ab20d2d452bf02e7ef8f3b"
+    },
+    {
       "id": 946,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
