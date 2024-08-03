@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "66ad61aab3950e02ff3c345a",
+      "platform": "tiktok",
+      "title": "US Market: Product Category Recommendation",
+      "url": "https://partner.tiktokshop.com/docv2/page/66ad61aab3950e02ff3c345a"
+    },
+    {
+      "id": 947,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/947"
+    },
+    {
       "id": "66978e5099c26c02ff76472b",
       "platform": "tiktok",
       "title": "New APIs and Webhook for Affiliates (Beta)",
