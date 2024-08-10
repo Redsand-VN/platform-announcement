@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "66b58ce40d6ef902f1b3bc27",
+      "platform": "tiktok",
+      "title": "For the PH market: Updates to Mandatory attributes on Fresh and Frozen related categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/66b58ce40d6ef902f1b3bc27"
+    },
+    {
+      "id": "66b5c41e0d6ef902f1b49220",
+      "platform": "tiktok",
+      "title": "For the SEA market: Various categories will require the Mandatory attribute - \"Dangerous Goods\"",
+      "url": "https://partner.tiktokshop.com/docv2/page/66b5c41e0d6ef902f1b49220"
+    },
+    {
+      "id": 952,
+      "platform": "shopee",
+      "title": "[Important] Token Character Length Update & Open API and Push Mechanism Sunset",
+      "url": "https://open.shopee.com/announcements/952"
+    },
+    {
       "id": "66ad61aab3950e02ff3c345a",
       "platform": "tiktok",
       "title": "US Market: Product Category Recommendation",
