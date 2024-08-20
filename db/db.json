@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 956,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/956"
+    },
+    {
+      "id": 121760,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121760"
+    },
+    {
       "id": 121756,
       "platform": "lazada",
       "title": "AI Recommended Image Sequences feature coming soon",
