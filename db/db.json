@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "66c5d9b4e863d902fac36b74",
+      "platform": "tiktok",
+      "title": "New Webhook: Product Creation",
+      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b4e863d902fac36b74"
+    },
+    {
+      "id": "66c5d9b6290e4202f857d5b7",
+      "platform": "tiktok",
+      "title": "US and UK Markets: New Properties Added to Finance API",
+      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b6290e4202f857d5b7"
+    },
+    {
       "id": 957,
       "platform": "shopee",
       "title": "[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs",
