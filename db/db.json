@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 963,
+      "platform": "shopee",
+      "title": "[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)",
+      "url": "https://open.shopee.com/announcements/963"
+    },
+    {
+      "id": 121763,
+      "platform": "lazada",
+      "title": "IMPORTANT UPDATES ON CATEGORY ATTRIBUTES",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121763"
+    },
+    {
       "id": "66c5d9b4e863d902fac36b74",
       "platform": "tiktok",
       "title": "New Webhook: Product Creation",
