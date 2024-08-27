@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "66cbf1e7597571030d9e5fdb",
+      "platform": "tiktok",
+      "title": "Sunsetting Listing Schemas Endpoint",
+      "url": "https://partner.tiktokshop.com/docv2/page/66cbf1e7597571030d9e5fdb"
+    },
+    {
       "id": 963,
       "platform": "shopee",
       "title": "[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)",
