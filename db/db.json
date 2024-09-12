@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 121769,
+      "platform": "lazada",
+      "title": "GetOrder/GetOrders API temporary fix coming soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121769"
+    },
+    {
       "id": "66e0e14b0d161503013ca73f",
       "platform": "tiktok",
       "title": "US Market: Adding shipping fee items to Finance API",
