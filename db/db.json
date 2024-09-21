@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 970,
+      "platform": "shopee",
+      "title": "Significant Chat OpenAPI and Webchat Push Updates",
+      "url": "https://open.shopee.com/announcements/970"
+    },
+    {
       "id": 121771,
       "platform": "lazada",
       "title": "searchAdgroupList API adds date check",
