@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "66f304521006d602ec0d54a4",
+      "platform": "tiktok",
+      "title": "(REMINDER) Legacy API Sunsets on Dec 31, 2024",
+      "url": "https://partner.tiktokshop.com/docv2/page/66f304521006d602ec0d54a4"
+    },
+    {
       "id": "66f1364a332c7c02ff0459c7",
       "platform": "tiktok",
       "title": "For the SEA market partner&developer: The parameters \"handover_method\" in API Ship Package and Batch Ship Package will be useless",
