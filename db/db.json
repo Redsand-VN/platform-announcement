@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "66ff107cf0dd0902fa4ab54c",
+      "platform": "tiktok",
+      "title": "US market: Strike Through Pricing for allowlisted sellers",
+      "url": "https://partner.tiktokshop.com/docv2/page/66ff107cf0dd0902fa4ab54c"
+    },
+    {
+      "id": 981,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel (City-Link Express)",
+      "url": "https://open.shopee.com/announcements/981"
+    },
+    {
+      "id": 980,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
+      "url": "https://open.shopee.com/announcements/980"
+    },
+    {
       "id": "66fa4e34f70f7203045b9497",
       "platform": "tiktok",
       "title": "ID market: \"Shop | Tokopedia\" Open API Integration One Pager",
