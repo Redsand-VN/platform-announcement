@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 988,
+      "platform": "shopee",
+      "title": "[Important] [Action Required] Token Storage Type Adjustment Progress Check",
+      "url": "https://open.shopee.com/announcements/988"
+    },
+    {
+      "id": 121780,
+      "platform": "lazada",
+      "title": "Order API - GetOrders API Query Old Orders feature is restored",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121780"
+    },
+    {
       "id": "66ff107cf0dd0902fa4ab54c",
       "platform": "tiktok",
       "title": "US market: Strike Through Pricing for allowlisted sellers",
