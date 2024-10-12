@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": 991,
+      "platform": "shopee",
+      "title": "[CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point",
+      "url": "https://open.shopee.com/announcements/991"
+    },
+    {
+      "id": 989,
+      "platform": "shopee",
+      "title": "[Important][PH] Update for customized Air Waybills (AWB) for channel id: 40066 ",
+      "url": "https://open.shopee.com/announcements/989"
+    },
+    {
+      "id": 121781,
+      "platform": "lazada",
+      "title": "【lazada Choice】PO fulfillment API adjustments",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121781"
+    },
+    {
       "id": 988,
       "platform": "shopee",
       "title": "[Important] [Action Required] Token Storage Type Adjustment Progress Check",
