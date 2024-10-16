@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "670e2527889b3d031da5d253",
+      "platform": "tiktok",
+      "title": "EU market: Adding mandatory certificates to Products API",
+      "url": "https://partner.tiktokshop.com/docv2/page/670e2527889b3d031da5d253"
+    },
+    {
       "id": 991,
       "platform": "shopee",
       "title": "[CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point",
