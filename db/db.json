@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": 1003,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1003"
+    },
+    {
+      "id": 1001,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)",
+      "url": "https://open.shopee.com/announcements/1001"
+    },
+    {
+      "id": 999,
+      "platform": "shopee",
+      "title": "[MY] Important Update for MY-SG SIP and Direct Programme AWB API",
+      "url": "https://open.shopee.com/announcements/999"
+    },
+    {
       "id": "670e2527889b3d031da5d253",
       "platform": "tiktok",
       "title": "EU market: Adding mandatory certificates to Products API",
