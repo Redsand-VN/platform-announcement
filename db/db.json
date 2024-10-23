@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1004,
+      "platform": "shopee",
+      "title": " Reminder to Complete Survey on \"error_auth\" Breakdown and Integration Time",
+      "url": "https://open.shopee.com/announcements/1004"
+    },
+    {
+      "id": 121790,
+      "platform": "lazada",
+      "title": "LAZADA D11 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121790"
+    },
+    {
       "id": 1003,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
