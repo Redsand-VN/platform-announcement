@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 121800,
+      "platform": "lazada",
+      "title": "LAZADA D12 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121800"
+    },
+    {
       "id": "6740642f29926a030df796bd",
       "platform": "tiktok",
       "title": "(MAINTENANCE) Scheduled downtime for Promotion APIs",
