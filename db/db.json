@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 121802,
+      "platform": "lazada",
+      "title": "A/B tests API is going offline soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121802"
+    },
+    {
       "id": 121801,
       "platform": "lazada",
       "title": "Product API - Add MP3 Store Product business field",
