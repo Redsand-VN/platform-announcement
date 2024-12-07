@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6752715b28a1690305f1e7dd",
+      "platform": "tiktok",
+      "title": "Updates to Product API Mandatory Certifications",
+      "url": "https://partner.tiktokshop.com/docv2/page/6752715b28a1690305f1e7dd"
+    },
+    {
+      "id": 1039,
+      "platform": "shopee",
+      "title": "[PH] Important Update for Customized Air Waybills (AWB)",
+      "url": "https://open.shopee.com/announcements/1039"
+    },
+    {
       "id": 121802,
       "platform": "lazada",
       "title": "A/B tests API is going offline soon",
