@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1052,
+      "platform": "shopee",
+      "title": "Important OpenAPI Updates for Payment, Chat and Ads API",
+      "url": "https://open.shopee.com/announcements/1052"
+    },
+    {
       "id": 1051,
       "platform": "shopee",
       "title": "[MY] Important Update for SPX Express (Bulky) & Shopee Express (East Malaysia)",
