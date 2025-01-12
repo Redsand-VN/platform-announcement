@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6782326ec399d90301e139df",
+      "platform": "tiktok",
+      "title": "Product Audit Status is Added to Products API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6782326ec399d90301e139df"
+    },
+    {
       "id": 1064,
       "platform": "shopee",
       "title": "[Important] Shopee launched the Advance Fulfillment Program",
