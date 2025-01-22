@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "679053362a4172030f0972fc",
+      "platform": "tiktok",
+      "title": "Price and Inventory is optional when editing products",
+      "url": "https://partner.tiktokshop.com/docv2/page/679053362a4172030f0972fc"
+    },
+    {
+      "id": "6790533978f4c20311c5230a",
+      "platform": "tiktok",
+      "title": "New Endpoint: Diagnose and Optimize Product",
+      "url": "https://partner.tiktokshop.com/docv2/page/6790533978f4c20311c5230a"
+    },
+    {
       "id": 1066,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)",
