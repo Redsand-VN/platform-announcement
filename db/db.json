@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "67afc3d1572c9f04b7a533ce",
+      "platform": "tiktok",
+      "title": "MX market: Minimum product price adjustment",
+      "url": "https://partner.tiktokshop.com/docv2/page/67afc3d1572c9f04b7a533ce"
+    },
+    {
+      "id": 1079,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Self Collection Point (SPX Express)",
+      "url": "https://open.shopee.com/announcements/1079"
+    },
+    {
       "id": 1074,
       "platform": "shopee",
       "title": "Announcement on Shopee Service Restoration",
