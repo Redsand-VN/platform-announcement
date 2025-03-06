@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "67c8ed2e2b63a404b7ad64ce",
+      "platform": "tiktok",
+      "title": "Auto Combine Order ID available in Order Details for LIVE sessions",
+      "url": "https://partner.tiktokshop.com/docv2/page/67c8ed2e2b63a404b7ad64ce"
+    },
+    {
+      "id": "67c8ed30d5d9d004a2f5cd73",
+      "platform": "tiktok",
+      "title": "Hazmat Deadline Extended to April 15",
+      "url": "https://partner.tiktokshop.com/docv2/page/67c8ed30d5d9d004a2f5cd73"
+    },
+    {
+      "id": 121824,
+      "platform": "lazada",
+      "title": "LAZADA Bday Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121824"
+    },
+    {
       "id": 121823,
       "platform": "lazada",
       "title": "Choice API - PO Query API and webhook adjustment",
