@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1095,
+      "platform": "shopee",
+      "title": "Falha no fluxo de envio de Nota Fiscal",
+      "url": "https://open.shopee.com/announcements/1095"
+    },
+    {
       "id": "67ca5b63fc1c0704c4484a75",
       "platform": "tiktok",
       "title": "Adding co-founded shipping discount fields",
