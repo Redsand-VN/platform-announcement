@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 121847,
+      "platform": "lazada",
+      "title": "Category Tree Changes",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121847"
+    },
+    {
       "id": "680bec69106224049782f255",
       "platform": "tiktok",
       "title": "BR market: ZPL format support for shipping documents",
