@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "680febada6eb9c049050ea37",
+      "platform": "tiktok",
+      "title": "US market: Pre-order, made-to-order, and back-order functionality",
+      "url": "https://partner.tiktokshop.com/docv2/page/680febada6eb9c049050ea37"
+    },
+    {
+      "id": "680ffa16ad835c04a2d81b79",
+      "platform": "tiktok",
+      "title": "US market: Supplementary SKU images",
+      "url": "https://partner.tiktokshop.com/docv2/page/680ffa16ad835c04a2d81b79"
+    },
+    {
       "id": 121847,
       "platform": "lazada",
       "title": "Category Tree Changes",
