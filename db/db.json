@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "681d1e91d2dec604acd934cc",
+      "platform": "tiktok",
+      "title": "US market: Fast delivery program",
+      "url": "https://partner.tiktokshop.com/docv2/page/681d1e91d2dec604acd934cc"
+    },
+    {
+      "id": 1134,
+      "platform": "shopee",
+      "title": "[MY] Important Update for AWB (City-Link Express)",
+      "url": "https://open.shopee.com/announcements/1134"
+    },
+    {
       "id": "68198c221062240497df0541",
       "platform": "tiktok",
       "title": "For the SEA Market Partner & Developer: Add Expire Date on Product Certifications",
