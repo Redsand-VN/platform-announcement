@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1140,
+      "platform": "shopee",
+      "title": "One AWB Update for Direct Selling Programme",
+      "url": "https://open.shopee.com/announcements/1140"
+    },
+    {
       "id": 1138,
       "platform": "shopee",
       "title": "One AWB Update for Shopee VN, SG, TH Cross-border Order",
