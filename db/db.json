@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "682fda578992fb0499d40ed3",
+      "platform": "tiktok",
+      "title": "US market: Changes to recipient_address masking",
+      "url": "https://partner.tiktokshop.com/docv2/page/682fda578992fb0499d40ed3"
+    },
+    {
+      "id": "682ede19f8268a04839b6627",
+      "platform": "tiktok",
+      "title": "US market: Updates to mandatory attributes",
+      "url": "https://partner.tiktokshop.com/docv2/page/682ede19f8268a04839b6627"
+    },
+    {
       "id": "682e40f58d17bd04a10a1d96",
       "platform": "tiktok",
       "title": "US market: TikTok Shipping label allocation",
