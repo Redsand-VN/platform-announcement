@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1168,
+      "platform": "shopee",
+      "title": "Open API Send Message Limitation",
+      "url": "https://open.shopee.com/announcements/1168"
+    },
+    {
+      "id": 121861,
+      "platform": "lazada",
+      "title": "Category tree and attribute changes",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121861"
+    },
+    {
       "id": 1163,
       "platform": "shopee",
       "title": "[Importante] Etiquetas de Envio Personalizadas",
