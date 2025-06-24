@@ -1,6 +1,30 @@
 {
   "announcements": [
     {
+      "id": "68591ecdbaf007048f512484",
+      "platform": "tiktok",
+      "title": "Supplementary Notice on API Deprecation: Finance APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/68591ecdbaf007048f512484"
+    },
+    {
+      "id": 1171,
+      "platform": "shopee",
+      "title": "[TH] Important Update for Open Platform AWB API - Instant Delivery - ส่งทันที",
+      "url": "https://open.shopee.com/announcements/1171"
+    },
+    {
+      "id": 1170,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Flash Bulky",
+      "url": "https://open.shopee.com/announcements/1170"
+    },
+    {
+      "id": 1169,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of New Package Detail API & Fulfillment Status Push",
+      "url": "https://open.shopee.com/announcements/1169"
+    },
+    {
       "id": 1168,
       "platform": "shopee",
       "title": "Open API Send Message Limitation",
