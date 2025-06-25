@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1174,
+      "platform": "shopee",
+      "title": "[Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta",
+      "url": "https://open.shopee.com/announcements/1174"
+    },
+    {
+      "id": 1172,
+      "platform": "shopee",
+      "title": "[Importante] ERRATA - Aviso de Restrição da sua conta",
+      "url": "https://open.shopee.com/announcements/1172"
+    },
+    {
       "id": "68591ecdbaf007048f512484",
       "platform": "tiktok",
       "title": "Supplementary Notice on API Deprecation: Finance APIs",
