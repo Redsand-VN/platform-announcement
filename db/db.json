@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1180,
+      "platform": "shopee",
+      "title": "[Important] Open API Partner Key Reset Improvement",
+      "url": "https://open.shopee.com/announcements/1180"
+    },
+    {
       "id": 1179,
       "platform": "shopee",
       "title": "APIs e Parâmetros descontinuados",
