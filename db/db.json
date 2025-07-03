@@ -1,6 +1,30 @@
 {
   "announcements": [
     {
+      "id": "6865c890d066680493e36258",
+      "platform": "tiktok",
+      "title": "Post town added for UK recipient addresses in the Get Order Detail API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6865c890d066680493e36258"
+    },
+    {
+      "id": "6864f928f4938304ab047f2b",
+      "platform": "tiktok",
+      "title": "MX market: GS POP API Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6864f928f4938304ab047f2b"
+    },
+    {
+      "id": 1185,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier AWB (Self Collection Point)",
+      "url": "https://open.shopee.com/announcements/1185"
+    },
+    {
+      "id": 121889,
+      "platform": "lazada",
+      "title": "Choice API - PO status and biz group adjustments",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121889"
+    },
+    {
       "id": "68645e5acfcfd30493c5ca6c",
       "platform": "tiktok",
       "title": "MX market: GS POP API Updates",
