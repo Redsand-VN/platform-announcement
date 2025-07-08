@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "686c667683ee46049a44aecc",
+      "platform": "tiktok",
+      "title": "Introducing new product image text translation APIs and webhook",
+      "url": "https://partner.tiktokshop.com/docv2/page/686c667683ee46049a44aecc"
+    },
+    {
+      "id": 1186,
+      "platform": "shopee",
+      "title": "[Nova API Download de documentos] Novidades fluxo de Fulfilled by Shopee",
+      "url": "https://open.shopee.com/announcements/1186"
+    },
+    {
       "id": "6865c890d066680493e36258",
       "platform": "tiktok",
       "title": "Post town added for UK recipient addresses in the Get Order Detail API",
