@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1193,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] APIs e Parâmetros descontinuados",
+      "url": "https://open.shopee.com/announcements/1193"
+    },
+    {
+      "id": 1192,
+      "platform": "shopee",
+      "title": "[Importante] Melhorias no reset da Open API Partner Key",
+      "url": "https://open.shopee.com/announcements/1192"
+    },
+    {
       "id": "6875f39c5c6c9604a9e53580",
       "platform": "tiktok",
       "title": "SEA market only:Three Seller Initiates Cancel Reasons will be changed",
