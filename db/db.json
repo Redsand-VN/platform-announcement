@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6879c09e150e8c0490284099",
+      "platform": "tiktok",
+      "title": "Updates to product errors",
+      "url": "https://partner.tiktokshop.com/docv2/page/6879c09e150e8c0490284099"
+    },
+    {
+      "id": 1195,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] APIs e Parâmetros descontinuados - Nova data 10/08/2025",
+      "url": "https://open.shopee.com/announcements/1195"
+    },
+    {
       "id": 1193,
       "platform": "shopee",
       "title": "[IMPORTANTE] APIs e Parâmetros descontinuados",
