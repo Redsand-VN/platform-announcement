@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": 1238,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novos parâmetros exigidos pela SEFAZ na NT 2025.001 no XML",
+      "url": "https://open.shopee.com/announcements/1238"
+    },
+    {
+      "id": 1237,
+      "platform": "shopee",
+      "title": "Significant Open Platform Update",
+      "url": "https://open.shopee.com/announcements/1237"
+    },
+    {
+      "id": 121954,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121954"
+    },
+    {
       "id": 1236,
       "platform": "shopee",
       "title": "Shopee Open API New Feature Announcement (BR FBS Support)",
