@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "68af6771eb3a300486d0e157",
+      "platform": "tiktok",
+      "title": "New APIs for TikTok LIVE ",
+      "url": "https://partner.tiktokshop.com/docv2/page/68af6771eb3a300486d0e157"
+    },
+    {
+      "id": 1240,
+      "platform": "shopee",
+      "title": "[IMPORTANT] New SEFAZ NT 2025.001 Payment Parameters Required in XML",
+      "url": "https://open.shopee.com/announcements/1240"
+    },
+    {
       "id": "68ad7aa69e6e2a049311af0f",
       "platform": "tiktok",
       "title": "ID market: Tokopedia Open API Termination - Migrate to TikTok Shop Partner Center by September 30, 2025",
