@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 121971,
+      "platform": "lazada",
+      "title": "Open api-API Endpoint Update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121971"
+    },
+    {
       "id": "68af6771eb3a300486d0e157",
       "platform": "tiktok",
       "title": "New APIs for TikTok LIVE ",
