@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1254,
+      "platform": "shopee",
+      "title": "[Important][PH] New Express Air Local Logistic Channel",
+      "url": "https://open.shopee.com/announcements/1254"
+    },
+    {
+      "id": 1253,
+      "platform": "shopee",
+      "title": "[Important][PH] New SPX Same Day Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1253"
+    },
+    {
       "id": "68c3c9a9b084cc049407fce8",
       "platform": "tiktok",
       "title": "For SEA market: Get Rejection Reasons before Cancellation or Return Rejection",
