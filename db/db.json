@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1244,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier AWB (POS Malaysia)",
+      "url": "https://open.shopee.com/announcements/1244"
+    },
+    {
       "id": 1260,
       "platform": "shopee",
       "title": "Mudanças no Parâmetro measure_unit nas chamadas add_item e update_item",
