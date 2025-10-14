@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "68ed3f3f651aa60499443526",
+      "platform": "tiktok",
+      "title": "UKEU & JP markets: Product category expansion",
+      "url": "https://partner.tiktokshop.com/docv2/page/68ed3f3f651aa60499443526"
+    },
+    {
+      "id": "68ed3b33c97e6a049ad8c696",
+      "platform": "tiktok",
+      "title": "EU market: Pfand Fees and Packaging Type Data",
+      "url": "https://partner.tiktokshop.com/docv2/page/68ed3b33c97e6a049ad8c696"
+    },
+    {
+      "id": 1266,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order, Returns, and Chat",
+      "url": "https://open.shopee.com/announcements/1266"
+    },
+    {
       "id": "68e6a1118e2c77049551eb08",
       "platform": "tiktok",
       "title": "US market: Item protection/insurance",
