@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "690e4911c6ef97049d5beb1b",
+      "platform": "tiktok",
+      "title": "US market: Existing SKU standardization",
+      "url": "https://partner.tiktokshop.com/docv2/page/690e4911c6ef97049d5beb1b"
+    },
+    {
+      "id": 1280,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1280"
+    },
+    {
+      "id": 1278,
+      "platform": "shopee",
+      "title": "[Important][TW] Significant AWB Updated for logistic channel 30006 & 30011 (C2C）",
+      "url": "https://open.shopee.com/announcements/1278"
+    },
+    {
       "id": 1276,
       "platform": "shopee",
       "title": "[Important][PH] New SPX Express Economy Channel",
