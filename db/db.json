@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 121996,
+      "platform": "lazada",
+      "title": "LAZADA D12 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121996"
+    },
+    {
       "id": 1287,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Promotion, Account Health and Payment",
