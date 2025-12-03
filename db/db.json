@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1291,
+      "platform": "shopee",
+      "title": "[Important][PH] New Instant Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1291"
+    },
+    {
       "id": 1290,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Return",
