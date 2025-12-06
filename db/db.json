@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1294,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order, Return, and AMS",
+      "url": "https://open.shopee.com/announcements/1294"
+    },
+    {
+      "id": 1293,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Shopee Video ",
+      "url": "https://open.shopee.com/announcements/1293"
+    },
+    {
       "id": 1292,
       "platform": "shopee",
       "title": "Launch Instant Mart for Shopee Brazil Market",
