@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1302,
+      "platform": "shopee",
+      "title": "[Important] Lembretes sobre reset da Open API Partner Key",
+      "url": "https://open.shopee.com/announcements/1302"
+    },
+    {
+      "id": 1301,
+      "platform": "shopee",
+      "title": "Important Notice: Two-Factor Authentication for Open Platform Accounts",
+      "url": "https://open.shopee.com/announcements/1301"
+    },
+    {
       "id": "694247ec448a12074c0189ed",
       "platform": "tiktok",
       "title": "[Important] Legacy Global Product Management Flow Decommission Notice ",
