@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1311,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Flash Express Discontinuation",
+      "url": "https://open.shopee.com/announcements/1311"
+    },
+    {
+      "id": 1308,
+      "platform": "shopee",
+      "title": "[Policy Update] Migration of Penetration Test Report Submission to Open Platform",
+      "url": "https://open.shopee.com/announcements/1308"
+    },
+    {
       "id": 1310,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product, Payment, Logistics",
