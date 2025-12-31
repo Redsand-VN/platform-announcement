@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "69536605c58cc40499510958",
+      "platform": "tiktok",
+      "title": "New Capability  for Affiliate Sample Applications ",
+      "url": "https://partner.tiktokshop.com/docv2/page/69536605c58cc40499510958"
+    },
+    {
+      "id": 1312,
+      "platform": "shopee",
+      "title": "[Important] Launch of My Task in Shopee Open Platform",
+      "url": "https://open.shopee.com/announcements/1312"
+    },
+    {
       "id": 1311,
       "platform": "shopee",
       "title": "[MY] Important Update for Flash Express Discontinuation",
