@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1313,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Account Health",
+      "url": "https://open.shopee.com/announcements/1313"
+    },
+    {
       "id": "69536605c58cc40499510958",
       "platform": "tiktok",
       "title": "New Capability  for Affiliate Sample Applications ",
