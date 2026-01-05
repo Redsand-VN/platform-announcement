@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "695a2d45100d4504979a63ee",
+      "platform": "tiktok",
+      "title": "For Indonesian market: Changes in Order and Finance APIs for Distant Fee",
+      "url": "https://partner.tiktokshop.com/docv2/page/695a2d45100d4504979a63ee"
+    },
+    {
       "id": 1313,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Account Health",
