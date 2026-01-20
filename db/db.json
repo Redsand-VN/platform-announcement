@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1327,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Validação do Endereço de Coleta",
+      "url": "https://open.shopee.com/announcements/1327"
+    },
+    {
       "id": "6969b89b40cf18049cb6eb42",
       "platform": "tiktok",
       "title": "【Important Notice】Enable Support for the New “On Hold” Order Status",
