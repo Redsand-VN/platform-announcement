@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": 1333,
+      "platform": "shopee",
+      "title": "SPI Service Enables Independent Partner Key",
+      "url": "https://open.shopee.com/announcements/1333"
+    },
+    {
+      "id": 1332,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product",
+      "url": "https://open.shopee.com/announcements/1332"
+    },
+    {
+      "id": 1331,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Same Day Delivery Discontinuation",
+      "url": "https://open.shopee.com/announcements/1331"
+    },
+    {
       "id": 1327,
       "platform": "shopee",
       "title": "[IMPORTANTE] Validação do Endereço de Coleta",
