@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": 1341,
+      "platform": "shopee",
+      "title": "[VN] Support New Instant  Priority Channel Hỏa Tốc - Ưu Tiên",
+      "url": "https://open.shopee.com/announcements/1341"
+    },
+    {
+      "id": 1340,
+      "platform": "shopee",
+      "title": "[Important] Penalties for Poor API Performance",
+      "url": "https://open.shopee.com/announcements/1340"
+    },
+    {
+      "id": 1335,
+      "platform": "shopee",
+      "title": "SPI Service Enables Independent Partner Key",
+      "url": "https://open.shopee.com/announcements/1335"
+    },
+    {
       "id": "698bf5f4d5932e049fad408c",
       "platform": "tiktok",
       "title": "EU Markets: Category Rules Update – Responsible Person Attribute Now Mandatory ",
