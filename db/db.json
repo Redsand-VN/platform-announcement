@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1352,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novo campo de faturamento pix_discount",
+      "url": "https://open.shopee.com/announcements/1352"
+    },
+    {
+      "id": 1351,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1351"
+    },
+    {
       "id": "69aa42cbb326d704fa58f297",
       "platform": "tiktok",
       "title": "US market: Updates to mandatory attributes ",
