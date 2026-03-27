@@ -1,6 +1,30 @@
 {
   "announcements": [
     {
+      "id": 1371,
+      "platform": "shopee",
+      "title": "[BR] Como Iniciar - Criação de Aplicativos",
+      "url": "https://open.shopee.com/announcements/1371"
+    },
+    {
+      "id": 1365,
+      "platform": "shopee",
+      "title": "[BR] Lembrete sobre Ambiente Sandbox (Sandbox Testing V2)",
+      "url": "https://open.shopee.com/announcements/1365"
+    },
+    {
+      "id": 1364,
+      "platform": "shopee",
+      "title": "[BR] Lembrete: Acesso a Dados Sensíveis (Sensitive Data Access)",
+      "url": "https://open.shopee.com/announcements/1364"
+    },
+    {
+      "id": 1363,
+      "platform": "shopee",
+      "title": "[BR] Lembrete: Política de Acesso à Chat API (Chat API)",
+      "url": "https://open.shopee.com/announcements/1363"
+    },
+    {
       "id": 1370,
       "platform": "shopee",
       "title": "Instabilidade no processamento de emissão de etiquetas e NF-e",
