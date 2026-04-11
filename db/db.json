@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "69d8c2294ce9a804deec62c3",
+      "platform": "tiktok",
+      "title": "New Capability  for Affiliate  Data Compass Offline Data Export",
+      "url": "https://partner.tiktokshop.com/docv2/page/69d8c2294ce9a804deec62c3"
+    },
+    {
+      "id": 1379,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Self Collection Point (SPX Express)",
+      "url": "https://open.shopee.com/announcements/1379"
+    },
+    {
+      "id": 1378,
+      "platform": "shopee",
+      "title": "[MY]Important Update for New Logistics Channel-Self Collection Locker",
+      "url": "https://open.shopee.com/announcements/1378"
+    },
+    {
       "id": "69cf908570d83304e25ea66e",
       "platform": "tiktok",
       "title": "US market: Mandatory compliance attributes added for Paper Money and Coins Categories",
