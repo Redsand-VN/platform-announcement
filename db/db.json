@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1377,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Logistics, Order, Payment, Product",
+      "url": "https://open.shopee.com/announcements/1377"
+    },
+    {
       "id": "69d8c2294ce9a804deec62c3",
       "platform": "tiktok",
       "title": "New Capability  for Affiliate  Data Compass Offline Data Export",
