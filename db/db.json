@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1398,
+      "platform": "shopee",
+      "title": "[TW] Schedule Update: \"sender_real_name\" field usage for order shipments",
+      "url": "https://open.shopee.com/announcements/1398"
+    },
+    {
+      "id": 145548,
+      "platform": "lazada",
+      "title": "Important - Encryption of Buyer Information for Orders",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=145548"
+    },
+    {
       "id": 1397,
       "platform": "shopee",
       "title": "[PH] New Instant Delivery Priority Channel",
