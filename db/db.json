@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1399,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Return, Logistics, Payment",
+      "url": "https://open.shopee.com/announcements/1399"
+    },
+    {
       "id": 1398,
       "platform": "shopee",
       "title": "[TW] Schedule Update: \"sender_real_name\" field usage for order shipments",
