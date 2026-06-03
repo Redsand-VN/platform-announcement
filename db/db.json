@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6a1e7de012f6bd04ef18f49e",
+      "platform": "tiktok",
+      "title": "Full Account Development Shop supports manual order status updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a1e7de012f6bd04ef18f49e"
+    },
+    {
+      "id": 1403,
+      "platform": "shopee",
+      "title": "[TH] Timeslot Update for Express Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1403"
+    },
+    {
+      "id": 1402,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novo campo remaining_voucher, API v2.payment.get_escrow_detail:",
+      "url": "https://open.shopee.com/announcements/1402"
+    },
+    {
       "id": 1400,
       "platform": "shopee",
       "title": "[BR] Criação de App: permissões e APIs são definidas pela categoria selecionada",
