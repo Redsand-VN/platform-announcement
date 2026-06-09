@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6a266c6e124e9404bb283b29",
+      "platform": "tiktok",
+      "title": "Gateway HTTP Access to Be Discontinued",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a266c6e124e9404bb283b29"
+    },
+    {
+      "id": 1406,
+      "platform": "shopee",
+      "title": "[BR] Instabilidade na Central do Vendedor e serviços",
+      "url": "https://open.shopee.com/announcements/1406"
+    },
+    {
+      "id": 1405,
+      "platform": "shopee",
+      "title": "[TW] AWB size update for logistics channel 30020 (新竹物流)",
+      "url": "https://open.shopee.com/announcements/1405"
+    },
+    {
       "id": "6a25708f40280804f5f973e1",
       "platform": "tiktok",
       "title": "For Malaysia market: Updates to Mandatory Attributes on Beauty & Wellness Supplement Related Categories",
