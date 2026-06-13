@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1429,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product",
+      "url": "https://open.shopee.com/announcements/1429"
+    },
+    {
+      "id": 1424,
+      "platform": "shopee",
+      "title": "[MY] Important Update for J&T Cargo Discontinuation",
+      "url": "https://open.shopee.com/announcements/1424"
+    },
+    {
       "id": "6a2a7f021c4e66e01e9068e8",
       "platform": "tiktok",
       "title": "For All Markets : Deprecating the Creator Search Affiliate Trace Orders API",
