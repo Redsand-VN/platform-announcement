@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6a2f939b0a0aa9e23abe5a94",
+      "platform": "tiktok",
+      "title": "For All Markets : Get Payments API — Migrate from 202309 to 202605",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a2f939b0a0aa9e23abe5a94"
+    },
+    {
       "id": 1429,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product",
