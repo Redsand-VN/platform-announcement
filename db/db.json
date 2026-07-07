@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6a4c5eaad61e3104b64485ad",
+      "platform": "tiktok",
+      "title": "For US Markets: Introducing room_id in Order APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4c5eaad61e3104b64485ad"
+    },
+    {
+      "id": 1458,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1458"
+    },
+    {
+      "id": 1452,
+      "platform": "shopee",
+      "title": "[TH] Timeslot Update for Express Delivery Channel effective 20 July",
+      "url": "https://open.shopee.com/announcements/1452"
+    },
+    {
       "id": "6a4928e98c54fa052a10c028",
       "platform": "tiktok",
       "title": "For Thailand Market: Add TIS Certificate Mark on the Product Label as a Mandatory Qualification for 13 Categories",
