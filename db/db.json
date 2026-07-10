@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6a4f9660ec170f04e2aafefc",
+      "platform": "tiktok",
+      "title": "Product APIs Support Customer Purchase Limits Configuration",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4f9660ec170f04e2aafefc"
+    },
+    {
       "id": "6a4e102f8c54fa052a158ea0",
       "platform": "tiktok",
       "title": "For Indonesia Market:  Get Toko Product Mappers API Release ",
