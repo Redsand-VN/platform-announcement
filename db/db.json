@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1464,
+      "platform": "shopee",
+      "title": "买家 PII（个人身份信息）访问权限——渗透测试报告提交要求 ",
+      "url": "https://open.shopee.com/announcements/1464"
+    },
+    {
+      "id": 1463,
+      "platform": "shopee",
+      "title": "Mandatory Penetration Test Report Submission for Buyer PII Access ",
+      "url": "https://open.shopee.com/announcements/1463"
+    },
+    {
       "id": 1462,
       "platform": "shopee",
       "title": "[Important] Brand Portal Service OpenAPI Now Available",
