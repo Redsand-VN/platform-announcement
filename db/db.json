@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6a56f681ec170f04e2c1a21f",
+      "platform": "tiktok",
+      "title": "TTS Open Toolkit: Make your AI assistant fluent in TTS integration! ",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a56f681ec170f04e2c1a21f"
+    },
+    {
+      "id": 1465,
+      "platform": "shopee",
+      "title": "[BR] Alteração de nome do canal \"Entrega Turbo\" para \"Turbo\"",
+      "url": "https://open.shopee.com/announcements/1465"
+    },
+    {
       "id": 1464,
       "platform": "shopee",
       "title": "买家 PII（个人身份信息）访问权限——渗透测试报告提交要求 ",
