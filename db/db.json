@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6a5e2af456bf6f04b00f23a2",
+      "platform": "tiktok",
+      "title": "New Function：POD Customization Config APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a5e2af456bf6f04b00f23a2"
+    },
+    {
+      "id": 1476,
+      "platform": "shopee",
+      "title": "Pesquisa rápida - Onboarding e Documentação da Shopee Open Platform",
+      "url": "https://open.shopee.com/announcements/1476"
+    },
+    {
+      "id": 1475,
+      "platform": "shopee",
+      "title": "Pesquisa rápida - Onboarding e Documentação da Shopee Open Platform",
+      "url": "https://open.shopee.com/announcements/1475"
+    },
+    {
       "id": "6a5c8f2dd8f53d04f1087305",
       "platform": "tiktok",
       "title": "For All markets：New Republish Activity API ",
