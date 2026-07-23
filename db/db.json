@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": 1487,
+      "platform": "shopee",
+      "title": "Inclusão do novo canal logístico para a modalidade Turbo",
+      "url": "https://open.shopee.com/announcements/1487"
+    },
+    {
+      "id": 1485,
+      "platform": "shopee",
+      "title": "[BR] Melhoria no Fluxo de Abertura de Tickets com o Assistente IA",
+      "url": "https://open.shopee.com/announcements/1485"
+    },
+    {
+      "id": 1484,
+      "platform": "shopee",
+      "title": "Open Platform Al Assistant Update",
+      "url": "https://open.shopee.com/announcements/1484"
+    },
+    {
       "id": "6a5f41af331fb304ed5babdd",
       "platform": "tiktok",
       "title": "Shop Performance Score (SPS) APIs v202606 for US Shops: Five New APIs Added",
