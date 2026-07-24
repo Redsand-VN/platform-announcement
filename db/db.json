@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1488,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1488"
+    },
+    {
+      "id": 1486,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Order Throttling: Como identificar pedido temporariamente pendente",
+      "url": "https://open.shopee.com/announcements/1486"
+    },
+    {
       "id": 1487,
       "platform": "shopee",
       "title": "Inclusão do novo canal logístico para a modalidade Turbo",
