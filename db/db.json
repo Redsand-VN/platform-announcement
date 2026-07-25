@@ -1,6 +1,36 @@
 {
   "announcements": [
     {
+      "id": "6a6321abeb705304fd582ec1",
+      "platform": "tiktok",
+      "title": "For All Markets :  Marketplace Creator API add an optional parameter",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a6321abeb705304fd582ec1"
+    },
+    {
+      "id": "6a633110e645e904b7840f7b",
+      "platform": "tiktok",
+      "title": "For US Market: POD Customization Details Are Now Available",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a633110e645e904b7840f7b"
+    },
+    {
+      "id": 1495,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novo Canal Logístico – Expresso Aéreo (Logistics Channel ID 91006)",
+      "url": "https://open.shopee.com/announcements/1495"
+    },
+    {
+      "id": 1494,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1494"
+    },
+    {
+      "id": 1493,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Payment and Product",
+      "url": "https://open.shopee.com/announcements/1493"
+    },
+    {
       "id": 1488,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
