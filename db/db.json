@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1509,
+      "platform": "shopee",
+      "title": "[TW][Important] Product Attribute Adjustments for Selected Categories",
+      "url": "https://open.shopee.com/announcements/1509"
+    },
+    {
       "id": "6a69c3e7194d4e04bd3496ef",
       "platform": "tiktok",
       "title": "For All Markets : Affiliate API — Legacy Versions and Endpoints Sunset",
