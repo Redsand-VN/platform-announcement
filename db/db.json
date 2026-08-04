@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1516,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1516"
+    },
+    {
       "id": "6a6c5d8bf4f24b04f62fff73",
       "platform": "tiktok",
       "title": "For All Markets: FBT Goods Create / Update API Request Field Changes ",
