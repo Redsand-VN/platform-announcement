@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6a72d7e58c54fa052a4e153e",
+      "platform": "tiktok",
+      "title": "For Japan: New Customs Information APIs for Fulfillment",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a72d7e58c54fa052a4e153e"
+    },
+    {
+      "id": 1519,
+      "platform": "shopee",
+      "title": "[Important] Key Project Update: Instant Delivery",
+      "url": "https://open.shopee.com/announcements/1519"
+    },
+    {
       "id": "6a72a290b9e53b04ead33ec5",
       "platform": "tiktok",
       "title": "For US Market: Warehouse ID in Get Package Detail API",
