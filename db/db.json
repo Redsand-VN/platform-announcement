@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6a85bbe3d8f53d04f13b082b",
+      "platform": "tiktok",
+      "title": "Optional source-platform product context added to Recommend Category API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a85bbe3d8f53d04f13b082b"
+    },
+    {
+      "id": 1537,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1537"
+    },
+    {
+      "id": 1536,
+      "platform": "shopee",
+      "title": "Operation Task Management: Atualização nos Critérios de Contagem de Dias",
+      "url": "https://open.shopee.com/announcements/1536"
+    },
+    {
       "id": "6a83d8768930d50523141bad",
       "platform": "tiktok",
       "title": "For Thailand Market: TIS Related Changes for Slime & Squishy Toys and Stress Relief Toys Categories",
