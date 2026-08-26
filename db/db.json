@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6a8d002aa799a804c343dd8e",
+      "platform": "tiktok",
+      "title": "US & EMEA Markets: Get Review Decisions API (NEW)",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a8d002aa799a804c343dd8e"
+    },
+    {
+      "id": 1541,
+      "platform": "shopee",
+      "title": "[TH] Restricted Time Update for Instant Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1541"
+    },
+    {
+      "id": 223850,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=223850"
+    },
+    {
       "id": 1540,
       "platform": "shopee",
       "title": "Levantamento de Segurança – PenTest | Parceiros Integradores",
