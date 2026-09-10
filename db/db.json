@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6aa1880ea1d62b04bcb7f950",
+      "platform": "tiktok",
+      "title": "Combined Listing: Merge into Variants and API Integration Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aa1880ea1d62b04bcb7f950"
+    },
+    {
       "id": "6a9bd47ec7ea6c04a260c9dd",
       "platform": "tiktok",
       "title": "For All markets：New auction_support_type Field to Control Auction Product Support",
