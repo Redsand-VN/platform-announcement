@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1557,
+      "platform": "shopee",
+      "title": "[PH] AWB Format Update for Instant Delivery Channels",
+      "url": "https://open.shopee.com/announcements/1557"
+    },
+    {
+      "id": 1556,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Returns",
+      "url": "https://open.shopee.com/announcements/1556"
+    },
+    {
       "id": "6aa2ae1058389604b5b34d25",
       "platform": "tiktok",
       "title": "For UK and EU Markets: Shipped by Platform - Edit Parcel Dimensions and Weight for Shipping Label Creation",
