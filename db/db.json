@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6aacded7e2cbce04e4c4b0cb",
+      "platform": "tiktok",
+      "title": "Product APIs: Mandatory Wig Material and Conditional Certification Requirements (US)",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aacded7e2cbce04e4c4b0cb"
+    },
+    {
+      "id": 1563,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1563"
+    },
+    {
+      "id": 1562,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates to Return",
+      "url": "https://open.shopee.com/announcements/1562"
+    },
+    {
       "id": "6aaa66e258389604b5ba4e16",
       "platform": "tiktok",
       "title": "Product APIs: Selling Format Support Added for Fixed-Price Sales and LIVE Auctions",
