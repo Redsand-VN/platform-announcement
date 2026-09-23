@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6ab232336900f904ec0e9305",
+      "platform": "tiktok",
+      "title": "Finance Transaction APIs: New Fee & Tax Properties for Growth Package and Auto-Post Shoppable Video",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab232336900f904ec0e9305"
+    },
+    {
+      "id": 1564,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
+      "url": "https://open.shopee.com/announcements/1564"
+    },
+    {
       "id": "6aacded7e2cbce04e4c4b0cb",
       "platform": "tiktok",
       "title": "Product APIs: Mandatory Wig Material and Conditional Certification Requirements (US)",
