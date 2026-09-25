@@ -1,6 +1,36 @@
 {
   "announcements": [
     {
+      "id": "6ab4c7a3dafd4c04b415811b",
+      "platform": "tiktok",
+      "title": "[US] Product Listing API: Category Attribute Updates for Auto Parts, Tires, Motorcycles, and Engine Oils",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab4c7a3dafd4c04b415811b"
+    },
+    {
+      "id": "6ab4ce4054895d04ee564925",
+      "platform": "tiktok",
+      "title": "US SPS Update: Impact on Existing APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab4ce4054895d04ee564925"
+    },
+    {
+      "id": 1572,
+      "platform": "shopee",
+      "title": "[BR] Novas APIs de Buybox (Hot Listing) sobre participação e desempenho ",
+      "url": "https://open.shopee.com/announcements/1572"
+    },
+    {
+      "id": 1570,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Product, Buybox and Business Insights",
+      "url": "https://open.shopee.com/announcements/1570"
+    },
+    {
+      "id": 1568,
+      "platform": "shopee",
+      "title": "[TW][Significant] Permanent Deletion of Long-Term Inactive Unlisted Items",
+      "url": "https://open.shopee.com/announcements/1568"
+    },
+    {
       "id": "6ab49358793c00050c7ccb2c",
       "platform": "tiktok",
       "title": "Shipping Template Widget Sunset",
