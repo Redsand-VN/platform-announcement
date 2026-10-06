@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1576,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
+      "url": "https://open.shopee.com/announcements/1576"
+    },
+    {
       "id": 1575,
       "platform": "shopee",
       "title": "[IMPORTANTE] Atualização API de Pagamentos ",
