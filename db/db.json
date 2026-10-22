@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6ad8d682489b3a02be5c2ed5",
+      "platform": "tiktok",
+      "title": "New API: Suggest Brands (202609) Is Now Available",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad8d682489b3a02be5c2ed5"
+    },
+    {
+      "id": "6ad8da21c3e0a102b5e2e31a",
+      "platform": "tiktok",
+      "title": "【Important】Analytics API Changelog: Endpoint Retirements and Query Window Changes",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad8da21c3e0a102b5e2e31a"
+    },
+    {
+      "id": 1603,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
+      "url": "https://open.shopee.com/announcements/1603"
+    },
+    {
       "id": "6ad5e780481ac804e7f7ed2c",
       "platform": "tiktok",
       "title": "For SEA L2L Market: Update on SLA fields for Order Fulfillment in Open API",
