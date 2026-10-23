@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6ad9e1656d07c302db7de682",
+      "platform": "tiktok",
+      "title": "For US, EU, UK, JP markets: New Order Tags in Order APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad9e1656d07c302db7de682"
+    },
+    {
+      "id": "6ad9e3bf489b3a02be5d8a7c",
+      "platform": "tiktok",
+      "title": "All Markets: Order APIs Add LIVE Session ID and Buyer Nickname Fields",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad9e3bf489b3a02be5d8a7c"
+    },
+    {
       "id": "6ad8d682489b3a02be5c2ed5",
       "platform": "tiktok",
       "title": "New API: Suggest Brands (202609) Is Now Available",
