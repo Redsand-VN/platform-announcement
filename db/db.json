@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6adb1f61dbb2a902acd9eeb6",
+      "platform": "tiktok",
+      "title": "Finance  API Updates: New Fee, Tax, Trade-In, and SKU Data",
+      "url": "https://partner.tiktokshop.com/docv2/page/6adb1f61dbb2a902acd9eeb6"
+    },
+    {
+      "id": 1604,
+      "platform": "shopee",
+      "title": "[PH] Perishable label in AWB for Instant Delivery Channels",
+      "url": "https://open.shopee.com/announcements/1604"
+    },
+    {
       "id": "6ad9e1656d07c302db7de682",
       "platform": "tiktok",
       "title": "For US, EU, UK, JP markets: New Order Tags in Order APIs",
