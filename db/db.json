@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "6adf0cdd84a56d02d17cad36",
+      "platform": "tiktok",
+      "title": "For ID L2L Market: Tokopedia & TikTok Shop Dual Listing",
+      "url": "https://partner.tiktokshop.com/docv2/page/6adf0cdd84a56d02d17cad36"
+    },
+    {
+      "id": 1605,
+      "platform": "shopee",
+      "title": "[Atualização] Sobreposição de áreas de cobertura para outlets Turbo 90026",
+      "url": "https://open.shopee.com/announcements/1605"
+    },
+    {
       "id": "6adb1f61dbb2a902acd9eeb6",
       "platform": "tiktok",
       "title": "Finance  API Updates: New Fee, Tax, Trade-In, and SKU Data",
