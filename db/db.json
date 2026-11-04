@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "6aea9af751fb4402d022561e",
+      "platform": "tiktok",
+      "title": "For Global Markets: Surprise Set and Team Break Order Tags",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aea9af751fb4402d022561e"
+    },
+    {
+      "id": 1619,
+      "platform": "shopee",
+      "title": "Esclarecimento: atributo Anatel para Bluetooth, Wi-Fi e RF",
+      "url": "https://open.shopee.com/announcements/1619"
+    },
+    {
+      "id": 1618,
+      "platform": "shopee",
+      "title": "Esclarecimento: atributo Anatel para Bluetooth, Wi-Fi e RF",
+      "url": "https://open.shopee.com/announcements/1618"
+    },
+    {
       "id": "6ae85e9a489b3a02be6cb1d4",
       "platform": "tiktok",
       "title": "Analytics API Changelog: New Off Site and ACC APIs",
