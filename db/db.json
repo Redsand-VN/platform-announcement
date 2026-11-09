@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "6af1722351fb4402d02e5e92",
+      "platform": "tiktok",
+      "title": "For US Markets: Change the Shipping Warehouse Before Purchasing a Label",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af1722351fb4402d02e5e92"
+    },
+    {
       "id": 1627,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order,Payment and Logistics",
