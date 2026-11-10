@@ -1,6 +1,54 @@
 {
   "announcements": [
     {
+      "id": "6af175c2372fa602d4190303",
+      "platform": "tiktok",
+      "title": "3PL Bulky Item Split Shipment API Integration Guide",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af175c2372fa602d4190303"
+    },
+    {
+      "id": "6af17ee7caf98a02af1520f9",
+      "platform": "tiktok",
+      "title": "For the US Market: Promotion Activity IDs in Order Price Details",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af17ee7caf98a02af1520f9"
+    },
+    {
+      "id": "6af19beb036e2f02a8156cfd",
+      "platform": "tiktok",
+      "title": "Product APIs now support measurement-based product attributes",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19beb036e2f02a8156cfd"
+    },
+    {
+      "id": "6af19c4c655ae002aa233d88",
+      "platform": "tiktok",
+      "title": "Product APIs add the is_blind_box request field",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19c4c655ae002aa233d88"
+    },
+    {
+      "id": "6af19cc152cc5602a3ffacff",
+      "platform": "tiktok",
+      "title": "Product APIs now support temporary listings for LIVE",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19cc152cc5602a3ffacff"
+    },
+    {
+      "id": "6af19d584f20d802b39577eb",
+      "platform": "tiktok",
+      "title": "Product APIs add Seller SKU requirements for EU cross-border POP listings",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19d584f20d802b39577eb"
+    },
+    {
+      "id": 1628,
+      "platform": "shopee",
+      "title": "[MY] Fulfilment Policy Update: Non-Fulfilment Rate (NFR) Penalty",
+      "url": "https://open.shopee.com/announcements/1628"
+    },
+    {
+      "id": 1608,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Validação do campo indPres nas NF-e enviadas pela OpenAPI",
+      "url": "https://open.shopee.com/announcements/1608"
+    },
+    {
       "id": "6af1722351fb4402d02e5e92",
       "platform": "tiktok",
       "title": "For US Markets: Change the Shipping Warehouse Before Purchasing a Label",
