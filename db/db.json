@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 1631,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel SPX Light Bulky",
+      "url": "https://open.shopee.com/announcements/1631"
+    },
+    {
+      "id": 1629,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026",
+      "url": "https://open.shopee.com/announcements/1629"
+    },
+    {
       "id": "6af175c2372fa602d4190303",
       "platform": "tiktok",
       "title": "3PL Bulky Item Split Shipment API Integration Guide",
