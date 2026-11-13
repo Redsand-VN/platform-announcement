@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1632,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Adiamento da validação do campo indPres nas NF-e",
+      "url": "https://open.shopee.com/announcements/1632"
+    },
+    {
       "id": "6af43d95c3e0a102b505d029",
       "platform": "tiktok",
       "title": "For All Market：Sample Settings Updates in Target Collaboration APIs",
