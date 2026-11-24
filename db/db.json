@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1650,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1650"
+    },
+    {
       "id": "6b00155ff8250302b7bfe5d7",
       "platform": "tiktok",
       "title": "Product API changelog — Size chart updates and Seller SKU requirements",
