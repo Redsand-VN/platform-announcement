@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1657,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates to Order and Product",
+      "url": "https://open.shopee.com/announcements/1657"
+    },
+    {
       "id": 305528,
       "platform": "lazada",
       "title": "LAZADA D12 Campaign Downgrade Plan",
